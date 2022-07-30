@@ -1,0 +1,22 @@
+// Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { .card {
+    width: 12rem;
+} }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { .card {
+    width: 12rem;
+} }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { .card {
+    width: 12rem;
+}v }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { .card {
+    width: 12rem;
+} }
